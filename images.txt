@@ -1,2 +1,2 @@
 #hyperf基础镜像
-hyperf/hyperf:8.1-alpine-v3.18-swoole-v5.1.4
+hyperf/hyperf:8.1-alpine-v3.19-swoole-v5.1.5
